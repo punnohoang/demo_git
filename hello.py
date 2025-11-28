@@ -1,1 +1,1 @@
-print("Hello World from Infra --VSCode!")
+print("Hello World!")
