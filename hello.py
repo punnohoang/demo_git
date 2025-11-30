@@ -1,3 +1,1 @@
-
-print("Hello World main !")
-
+print("Hello World from demo2!")
